@@ -100,7 +100,7 @@
         {
           "containerPath": "/var/www/html/app/Plugins ",
           "readOnly": false,
-          "sourceVolume": "plug"
+          "sourceVolume": "plugins"
         }
       ],
 
