@@ -75,8 +75,8 @@
         { "name": "DB_HOST", "valueFrom": "/lks/db/host" },
         { "name": "DB_PORT", "valueFrom": "/lks/db/port" },
         { "name": "DB_NAME", "valueFrom": "/lks/db/name" },
-        { "name": "DB_USERNAME", "valueFrom": "/lks/db/username" },
-        { "name": "DB_PASSWORD", "valueFrom": "/lks/db/password" }
+        { "name": "LEANTIME_DB_USER", "valueFrom": "/lks/db/username" },
+        { "name": "LEANTIME_DB_PASS", "valueFrom": "/lks/db/password" }
       ],
 
       "environment": [
