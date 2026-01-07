@@ -12,7 +12,7 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-063c4052ce7e305d4",
+          "accessPointId": "fsap-0f5730aff9e86dd2a",
           "iam": "DISABLED"
         },
         "fileSystemId": "fs-0d04dd3de0bbc43fb",
@@ -24,7 +24,7 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-0e82e38cee75ad7fd",
+          "accessPointId": "fsap-00cb218262c5c5ace",
           "iam": "DISABLED"
         },
         "fileSystemId": "fs-0d04dd3de0bbc43fb",
@@ -36,7 +36,7 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-0ab20cab5ca3c2f66",
+          "accessPointId": "fsap-060c7791ca1e09bf4",
           "iam": "DISABLED"
         },
         "fileSystemId": "fs-0d04dd3de0bbc43fb",
