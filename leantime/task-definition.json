@@ -12,10 +12,10 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-0b68611315f54b4f7",
+          "accessPointId": "fsap-0aa6a10dd39472dea",
           "iam": "DISABLED"
         },
-        "fileSystemId": "fs-071bdcad21bfd1f8b",
+        "fileSystemId": "fs-03c4053d31d2041b8",
         "rootDirectory": "/",
         "transitEncryption": "ENABLED"
       },
@@ -24,10 +24,10 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-09e69e9e0f93d0aa1",
+          "accessPointId": "fsap-068aba073ce1a78a9",
           "iam": "DISABLED"
         },
-        "fileSystemId": "fs-071bdcad21bfd1f8b",
+        "fileSystemId": "fs-03c4053d31d2041b8",
         "rootDirectory": "/",
         "transitEncryption": "ENABLED"
       },
@@ -36,10 +36,10 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-0ac0b6ec7c798e6eb",
+          "accessPointId": "fsap-0339425db9bbdb76e",
           "iam": "DISABLED"
         },
-        "fileSystemId": "fs-071bdcad21bfd1f8b",
+        "fileSystemId": "fs-03c4053d31d2041b8",
         "rootDirectory": "/",
         "transitEncryption": "ENABLED"
       },
