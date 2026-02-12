@@ -1,7 +1,7 @@
 {
   "family": "lks-leantime-app",
-  "taskRoleArn": "arn:aws:iam::058264312860:role/LabRole",
-  "executionRoleArn": "arn:aws:iam::058264312860:role/LabRole",
+  "taskRoleArn": "arn:aws:iam::211125520056:role/LabRole",
+  "executionRoleArn": "arn:aws:iam::211125520056:role/LabRole",
   "networkMode": "awsvpc",
   "requiresCompatibilities": [
     "FARGATE"
@@ -12,10 +12,10 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-06715902f2af060c0",
+          "accessPointId": "fsap-049d3cb0ab65131e3",
           "iam": "DISABLED"
         },
-        "fileSystemId": "fs-0678e4578771efaac",
+        "fileSystemId": "fs-0d3f48c545d80bb99",
         "rootDirectory": "/",
         "transitEncryption": "ENABLED"
       },
@@ -24,10 +24,10 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-016ee97f8afca8da9",
+          "accessPointId": "fsap-03de0132ca285ca40",
           "iam": "DISABLED"
         },
-        "fileSystemId": "fs-0678e4578771efaac",
+        "fileSystemId": "fs-0d3f48c545d80bb99",
         "rootDirectory": "/",
         "transitEncryption": "ENABLED"
       },
@@ -36,10 +36,10 @@
     {
       "efsVolumeConfiguration": {
         "authorizationConfig": {
-          "accessPointId": "fsap-05d952ec2dd2a13a4",
+          "accessPointId": "fsap-05ffbb21a1bd3bb66",
           "iam": "DISABLED"
         },
-        "fileSystemId": "fs-0678e4578771efaac",
+        "fileSystemId": "fs-0d3f48c545d80bb99",
         "rootDirectory": "/",
         "transitEncryption": "ENABLED"
       },
@@ -80,7 +80,7 @@
       ],
 
       "environment": [
-        { "name": "APP_URL", "value": "http://lks-oss-lb-282120207.us-east-1.elb.amazonaws.com" },
+        { "name": "APP_URL", "value": "http://lks-oss-lb-979922350.us-east-1.elb.amazonaws.com" },
         { "name": "APP_PORT", "value": "8080" },
         { "name": "SITENAME", "value": "Leantime" },
         { "name": "DEFAULT_TIMEZONE", "value": "Asia/Jakarta" }
